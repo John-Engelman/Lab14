@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=constants
+comment1.params=
+comment1.target=int\ getWidth()
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=int\ getPlayerRadius()
+comment4.params=
+comment4.target=int\ getProjectileRadius()
+comment5.params=newRad
+comment5.target=void\ setProjectileRadius(int)
+numComments=6
